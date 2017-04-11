@@ -8,4 +8,4 @@ function titleCase(str) {
 
 }
 
-titleCase("I'm a little tea pot");
+titleCase("I'm a little tea pot"); 
